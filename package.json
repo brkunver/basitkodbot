@@ -1,0 +1,20 @@
+{
+  "name": "basitkodbot",
+  "version": "1.0.0",
+  "description": "basitkod.com için yapılmış telegram botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "basitkod.com",
+    "telegram",
+    "bot"
+  ],
+  "author": "basitkod.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
